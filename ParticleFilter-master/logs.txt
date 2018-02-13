@@ -1,0 +1,4266 @@
+INFO:root:Finished reading map and data
+INFO:root:Parameter initialization complete
+INFO:root:Initialized particle list - Starting particle filter
+INFO:root:Iteration 0
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 3
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 6
+WARNING:root:Robot is static
+INFO:root:Iteration 8
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 11
+WARNING:root:Robot is static
+INFO:root:Iteration 13
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 16
+WARNING:root:Robot is static
+INFO:root:Iteration 18
+WARNING:root:Robot is static
+INFO:root:Iteration 20
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 23
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 26
+WARNING:root:Robot is static
+INFO:root:Iteration 28
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 31
+WARNING:root:Robot is static
+INFO:root:Iteration 33
+WARNING:root:Robot is static
+INFO:root:Iteration 35
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 38
+WARNING:root:Robot is static
+INFO:root:Iteration 40
+WARNING:root:Robot is static
+INFO:root:Iteration 42
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 45
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 48
+WARNING:root:Robot is static
+INFO:root:Iteration 50
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 53
+WARNING:root:Robot is static
+INFO:root:Iteration 55
+WARNING:root:Robot is static
+INFO:root:Iteration 57
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 60
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 63
+WARNING:root:Robot is static
+INFO:root:Iteration 65
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 68
+WARNING:root:Robot is static
+INFO:root:Iteration 70
+WARNING:root:Robot is static
+INFO:root:Iteration 72
+WARNING:root:Robot is static
+INFO:root:Iteration 74
+WARNING:root:Robot is static
+INFO:root:Iteration 76
+WARNING:root:Robot is static
+INFO:root:Iteration 78
+WARNING:root:Robot is static
+INFO:root:Iteration 80
+WARNING:root:Robot is static
+INFO:root:Iteration 81
+WARNING:root:Robot is static
+INFO:root:Iteration 83
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 86
+WARNING:root:Robot is static
+INFO:root:Iteration 88
+WARNING:root:Robot is static
+INFO:root:Iteration 90
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 93
+WARNING:root:Robot is static
+INFO:root:Iteration 94
+WARNING:root:Robot is static
+INFO:root:Iteration 96
+WARNING:root:Robot is static
+INFO:root:Iteration 98
+WARNING:root:Robot is static
+INFO:root:Iteration 100
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 103
+WARNING:root:Robot is static
+INFO:root:Iteration 105
+WARNING:root:Robot is static
+INFO:root:Iteration 107
+WARNING:root:Robot is static
+INFO:root:Iteration 108
+WARNING:root:Robot is static
+INFO:root:Iteration 110
+WARNING:root:Robot is static
+INFO:root:Iteration 112
+WARNING:root:Robot is static
+INFO:root:Iteration 114
+WARNING:root:Robot is static
+INFO:root:Iteration 116
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 119
+WARNING:root:Robot is static
+INFO:root:Iteration 120
+WARNING:root:Robot is static
+INFO:root:Iteration 122
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 125
+WARNING:root:Robot is static
+INFO:root:Iteration 127
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 130
+WARNING:root:Robot is static
+INFO:root:Iteration 132
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 135
+WARNING:root:Robot is static
+INFO:root:Iteration 137
+WARNING:root:Robot is static
+INFO:root:Iteration 139
+WARNING:root:Robot is static
+INFO:root:Iteration 141
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 144
+WARNING:root:Robot is static
+INFO:root:Iteration 146
+WARNING:root:Robot is static
+INFO:root:Iteration 148
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 151
+WARNING:root:Robot is static
+INFO:root:Iteration 152
+WARNING:root:Robot is static
+INFO:root:Iteration 154
+WARNING:root:Robot is static
+INFO:root:Iteration 156
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 159
+WARNING:root:Robot is static
+INFO:root:Iteration 161
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 164
+WARNING:root:Robot is static
+INFO:root:Iteration 166
+WARNING:root:Robot is static
+INFO:root:Iteration 168
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 171
+WARNING:root:Robot is static
+INFO:root:Iteration 173
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 176
+WARNING:root:Robot is static
+INFO:root:Iteration 178
+WARNING:root:Robot is static
+INFO:root:Iteration 180
+WARNING:root:Robot is static
+INFO:root:Iteration 181
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 184
+WARNING:root:Robot is static
+INFO:root:Iteration 186
+WARNING:root:Robot is static
+INFO:root:Iteration 188
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 191
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 194
+WARNING:root:Robot is static
+INFO:root:Iteration 196
+WARNING:root:Robot is static
+INFO:root:Iteration 198
+WARNING:root:Robot is static
+INFO:root:Iteration 200
+WARNING:root:Robot is static
+INFO:root:Iteration 202
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 205
+WARNING:root:Robot is static
+INFO:root:Iteration 207
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 210
+WARNING:root:Robot is static
+INFO:root:Iteration 212
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 215
+WARNING:root:Robot is static
+INFO:root:Iteration 217
+WARNING:root:Robot is static
+INFO:root:Iteration 219
+WARNING:root:Robot is static
+INFO:root:Iteration 221
+WARNING:root:Robot is static
+INFO:root:Iteration 223
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 226
+WARNING:root:Robot is static
+INFO:root:Iteration 227
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 230
+WARNING:root:Robot is static
+INFO:root:Iteration 232
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 235
+WARNING:root:Robot is static
+INFO:root:Iteration 237
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 240
+WARNING:root:Robot is static
+INFO:root:Iteration 242
+WARNING:root:Robot is static
+INFO:root:Iteration 244
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 247
+WARNING:root:Robot is static
+INFO:root:Iteration 249
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 252
+WARNING:root:Robot is static
+INFO:root:Iteration 254
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 257
+WARNING:root:Robot is static
+INFO:root:Iteration 259
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 262
+WARNING:root:Robot is static
+INFO:root:Iteration 264
+WARNING:root:Robot is static
+INFO:root:Iteration 266
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 269
+WARNING:root:Robot is static
+INFO:root:Iteration 271
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 274
+WARNING:root:Robot is static
+INFO:root:Iteration 276
+WARNING:root:Robot is static
+INFO:root:Iteration 278
+WARNING:root:Robot is static
+INFO:root:Iteration 280
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 283
+WARNING:root:Robot is static
+INFO:root:Iteration 285
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 288
+WARNING:root:Robot is static
+INFO:root:Iteration 290
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 293
+WARNING:root:Robot is static
+INFO:root:Iteration 295
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 298
+WARNING:root:Robot is static
+INFO:root:Iteration 300
+WARNING:root:Robot is static
+INFO:root:Iteration 301
+WARNING:root:Robot is static
+INFO:root:Iteration 303
+WARNING:root:Robot is static
+INFO:root:Iteration 305
+WARNING:root:Robot is static
+INFO:root:Iteration 306
+WARNING:root:Robot is static
+INFO:root:Iteration 308
+WARNING:root:Robot is static
+INFO:root:Iteration 310
+WARNING:root:Robot is static
+INFO:root:Iteration 312
+WARNING:root:Robot is static
+INFO:root:Iteration 314
+WARNING:root:Robot is static
+INFO:root:Iteration 316
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 319
+WARNING:root:Robot is static
+INFO:root:Iteration 321
+WARNING:root:Robot is static
+INFO:root:Iteration 323
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 326
+WARNING:root:Robot is static
+INFO:root:Iteration 328
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 331
+WARNING:root:Robot is static
+INFO:root:Iteration 333
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 336
+WARNING:root:Robot is static
+INFO:root:Iteration 338
+WARNING:root:Robot is static
+INFO:root:Iteration 340
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 343
+WARNING:root:Robot is static
+INFO:root:Iteration 345
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 348
+WARNING:root:Robot is static
+INFO:root:Iteration 350
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 353
+WARNING:root:Robot is static
+INFO:root:Iteration 355
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 358
+WARNING:root:Robot is static
+INFO:root:Iteration 360
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 363
+WARNING:root:Robot is static
+INFO:root:Iteration 365
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 368
+WARNING:root:Robot is static
+INFO:root:Iteration 370
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 373
+WARNING:root:Robot is static
+INFO:root:Iteration 375
+WARNING:root:Robot is static
+INFO:root:Iteration 377
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 380
+WARNING:root:Robot is static
+INFO:root:Iteration 382
+WARNING:root:Robot is static
+INFO:root:Iteration 384
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 387
+WARNING:root:Robot is static
+INFO:root:Iteration 389
+WARNING:root:Robot is static
+INFO:root:Iteration 391
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 394
+WARNING:root:Robot is static
+INFO:root:Iteration 396
+WARNING:root:Robot is static
+INFO:root:Iteration 398
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 401
+WARNING:root:Robot is static
+INFO:root:Iteration 403
+WARNING:root:Robot is static
+INFO:root:Iteration 405
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 408
+WARNING:root:Robot is static
+INFO:root:Iteration 410
+WARNING:root:Robot is static
+INFO:root:Iteration 412
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 415
+WARNING:root:Robot is static
+INFO:root:Iteration 417
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 420
+WARNING:root:Robot is static
+INFO:root:Iteration 422
+WARNING:root:Robot is static
+INFO:root:Iteration 424
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 427
+WARNING:root:Robot is static
+INFO:root:Iteration 429
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 432
+WARNING:root:Robot is static
+INFO:root:Iteration 434
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 437
+WARNING:root:Robot is static
+INFO:root:Iteration 439
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 442
+WARNING:root:Robot is static
+INFO:root:Iteration 444
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 447
+WARNING:root:Robot is static
+INFO:root:Iteration 449
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 452
+WARNING:root:Robot is static
+INFO:root:Iteration 454
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 457
+WARNING:root:Robot is static
+INFO:root:Iteration 459
+WARNING:root:Robot is static
+INFO:root:Iteration 461
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 464
+WARNING:root:Robot is static
+INFO:root:Iteration 466
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 469
+WARNING:root:Robot is static
+INFO:root:Iteration 471
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 474
+WARNING:root:Robot is static
+INFO:root:Iteration 476
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 479
+WARNING:root:Robot is static
+INFO:root:Iteration 481
+WARNING:root:Robot is static
+INFO:root:Iteration 483
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 486
+WARNING:root:Robot is static
+INFO:root:Iteration 488
+WARNING:root:Robot is static
+INFO:root:Iteration 490
+WARNING:root:Robot is static
+INFO:root:Iteration 492
+WARNING:root:Robot is static
+INFO:root:Iteration 494
+WARNING:root:Robot is static
+INFO:root:Iteration 496
+WARNING:root:Robot is static
+INFO:root:Iteration 498
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 501
+WARNING:root:Robot is static
+INFO:root:Iteration 503
+WARNING:root:Robot is static
+INFO:root:Iteration 504
+WARNING:root:Robot is static
+INFO:root:Iteration 506
+WARNING:root:Robot is static
+INFO:root:Iteration 508
+WARNING:root:Robot is static
+INFO:root:Iteration 510
+WARNING:root:Robot is static
+INFO:root:Iteration 512
+WARNING:root:Robot is static
+INFO:root:Iteration 513
+WARNING:root:Robot is static
+INFO:root:Iteration 515
+WARNING:root:Robot is static
+INFO:root:Iteration 517
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 520
+WARNING:root:Robot is static
+INFO:root:Iteration 522
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 525
+WARNING:root:Robot is static
+INFO:root:Iteration 527
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 530
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 533
+WARNING:root:Robot is static
+INFO:root:Iteration 535
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 538
+WARNING:root:Robot is static
+INFO:root:Iteration 540
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 543
+WARNING:root:Robot is static
+INFO:root:Iteration 545
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 548
+WARNING:root:Robot is static
+INFO:root:Iteration 550
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 553
+WARNING:root:Robot is static
+INFO:root:Iteration 555
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 558
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 561
+WARNING:root:Robot is static
+INFO:root:Iteration 563
+WARNING:root:Robot is static
+INFO:root:Iteration 565
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 568
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 571
+WARNING:root:Robot is static
+INFO:root:Iteration 573
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 576
+WARNING:root:Robot is static
+INFO:root:Iteration 578
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 581
+WARNING:root:Robot is static
+INFO:root:Iteration 583
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 586
+WARNING:root:Robot is static
+INFO:root:Iteration 588
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 591
+WARNING:root:Robot is static
+INFO:root:Iteration 593
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 596
+WARNING:root:Robot is static
+INFO:root:Iteration 598
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 601
+WARNING:root:Robot is static
+INFO:root:Iteration 603
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 606
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 609
+WARNING:root:Robot is static
+INFO:root:Iteration 611
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 614
+WARNING:root:Robot is static
+INFO:root:Iteration 616
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 619
+WARNING:root:Robot is static
+INFO:root:Iteration 621
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 624
+WARNING:root:Robot is static
+INFO:root:Iteration 626
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 629
+WARNING:root:Robot is static
+INFO:root:Iteration 631
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 634
+WARNING:root:Robot is static
+INFO:root:Iteration 636
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 639
+WARNING:root:Robot is static
+INFO:root:Iteration 641
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 644
+WARNING:root:Robot is static
+INFO:root:Iteration 646
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 649
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 652
+WARNING:root:Robot is static
+INFO:root:Iteration 654
+WARNING:root:Robot is static
+INFO:root:Iteration 655
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 658
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 661
+WARNING:root:Robot is static
+INFO:root:Iteration 663
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 666
+WARNING:root:Robot is static
+INFO:root:Iteration 668
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 671
+WARNING:root:Robot is static
+INFO:root:Iteration 673
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 676
+WARNING:root:Robot is static
+INFO:root:Iteration 678
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 681
+WARNING:root:Robot is static
+INFO:root:Iteration 682
+WARNING:root:Robot is static
+INFO:root:Iteration 684
+WARNING:root:Robot is static
+INFO:root:Iteration 686
+WARNING:root:Robot is static
+INFO:root:Iteration 688
+WARNING:root:Robot is static
+INFO:root:Iteration 690
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 693
+WARNING:root:Robot is static
+INFO:root:Iteration 695
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 698
+WARNING:root:Robot is static
+INFO:root:Iteration 700
+WARNING:root:Robot is static
+INFO:root:Iteration 702
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 705
+WARNING:root:Robot is static
+INFO:root:Iteration 706
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 709
+WARNING:root:Robot is static
+INFO:root:Iteration 711
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 714
+WARNING:root:Robot is static
+INFO:root:Iteration 716
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 719
+WARNING:root:Robot is static
+INFO:root:Iteration 721
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 724
+WARNING:root:Robot is static
+INFO:root:Iteration 726
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 729
+WARNING:root:Robot is static
+INFO:root:Iteration 730
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 733
+WARNING:root:Robot is static
+INFO:root:Iteration 734
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 737
+WARNING:root:Robot is static
+INFO:root:Iteration 738
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 741
+WARNING:root:Robot is static
+INFO:root:Iteration 743
+WARNING:root:Robot is static
+INFO:root:Iteration 745
+WARNING:root:Robot is static
+INFO:root:Iteration 747
+WARNING:root:Robot is static
+INFO:root:Iteration 749
+WARNING:root:Robot is static
+INFO:root:Iteration 751
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 754
+WARNING:root:Robot is static
+INFO:root:Iteration 756
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 759
+WARNING:root:Robot is static
+INFO:root:Iteration 761
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 764
+WARNING:root:Robot is static
+INFO:root:Iteration 766
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 769
+WARNING:root:Robot is static
+INFO:root:Iteration 770
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 773
+WARNING:root:Robot is static
+INFO:root:Iteration 774
+WARNING:root:Robot is static
+INFO:root:Iteration 776
+WARNING:root:Robot is static
+INFO:root:Iteration 778
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 781
+WARNING:root:Robot is static
+INFO:root:Iteration 783
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 786
+WARNING:root:Robot is static
+INFO:root:Iteration 787
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 790
+WARNING:root:Robot is static
+INFO:root:Iteration 792
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 795
+WARNING:root:Robot is static
+INFO:root:Iteration 796
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 799
+WARNING:root:Robot is static
+INFO:root:Iteration 801
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 804
+WARNING:root:Robot is static
+INFO:root:Iteration 805
+WARNING:root:Robot is static
+INFO:root:Iteration 807
+WARNING:root:Robot is static
+INFO:root:Iteration 809
+WARNING:root:Robot is static
+INFO:root:Iteration 811
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 814
+WARNING:root:Robot is static
+INFO:root:Iteration 816
+WARNING:root:Robot is static
+INFO:root:Iteration 818
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 821
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 824
+WARNING:root:Robot is static
+INFO:root:Iteration 826
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 829
+WARNING:root:Robot is static
+INFO:root:Iteration 831
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 834
+WARNING:root:Robot is static
+INFO:root:Iteration 836
+WARNING:root:Robot is static
+INFO:root:Iteration 838
+WARNING:root:Robot is static
+INFO:root:Iteration 840
+WARNING:root:Robot is static
+INFO:root:Iteration 842
+WARNING:root:Robot is static
+INFO:root:Iteration 843
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 846
+WARNING:root:Robot is static
+INFO:root:Iteration 848
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 851
+WARNING:root:Robot is static
+INFO:root:Iteration 853
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 856
+WARNING:root:Robot is static
+INFO:root:Iteration 858
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 861
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 864
+WARNING:root:Robot is static
+INFO:root:Iteration 866
+WARNING:root:Robot is static
+INFO:root:Iteration 868
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 871
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 874
+WARNING:root:Robot is static
+INFO:root:Iteration 875
+WARNING:root:Robot is static
+INFO:root:Iteration 877
+WARNING:root:Robot is static
+INFO:root:Iteration 879
+WARNING:root:Robot is static
+INFO:root:Iteration 881
+WARNING:root:Robot is static
+INFO:root:Iteration 883
+WARNING:root:Robot is static
+INFO:root:Iteration 885
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 888
+WARNING:root:Robot is static
+INFO:root:Iteration 890
+WARNING:root:Robot is static
+INFO:root:Iteration 892
+WARNING:root:Robot is static
+INFO:root:Iteration 893
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 896
+WARNING:root:Robot is static
+INFO:root:Iteration 898
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 901
+WARNING:root:Robot is static
+INFO:root:Iteration 903
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 906
+WARNING:root:Robot is static
+INFO:root:Iteration 908
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 911
+WARNING:root:Robot is static
+INFO:root:Iteration 913
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 916
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 919
+WARNING:root:Robot is static
+INFO:root:Iteration 921
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 924
+WARNING:root:Robot is static
+INFO:root:Iteration 926
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 929
+WARNING:root:Robot is static
+INFO:root:Iteration 931
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 934
+WARNING:root:Robot is static
+INFO:root:Iteration 936
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 939
+WARNING:root:Robot is static
+INFO:root:Iteration 941
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 944
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 947
+WARNING:root:Robot is static
+INFO:root:Iteration 949
+WARNING:root:Robot is static
+INFO:root:Iteration 951
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 954
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 957
+WARNING:root:Robot is static
+INFO:root:Iteration 959
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 962
+WARNING:root:Robot is static
+INFO:root:Iteration 964
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 967
+WARNING:root:Robot is static
+INFO:root:Iteration 969
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 972
+WARNING:root:Robot is static
+INFO:root:Iteration 974
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 977
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 980
+WARNING:root:Robot is static
+INFO:root:Iteration 982
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 985
+WARNING:root:Robot is static
+INFO:root:Iteration 987
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 990
+WARNING:root:Robot is static
+INFO:root:Iteration 992
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 995
+WARNING:root:Robot is static
+INFO:root:Iteration 997
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1000
+WARNING:root:Robot is static
+INFO:root:Iteration 1002
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1005
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1008
+WARNING:root:Robot is static
+INFO:root:Iteration 1010
+WARNING:root:Robot is static
+INFO:root:Iteration 1012
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1015
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1018
+WARNING:root:Robot is static
+INFO:root:Iteration 1020
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1023
+WARNING:root:Robot is static
+INFO:root:Iteration 1025
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1028
+WARNING:root:Robot is static
+INFO:root:Iteration 1030
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1033
+WARNING:root:Robot is static
+INFO:root:Iteration 1035
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1038
+WARNING:root:Robot is static
+INFO:root:Iteration 1040
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1043
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1046
+WARNING:root:Robot is static
+INFO:root:Iteration 1048
+WARNING:root:Robot is static
+INFO:root:Iteration 1050
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1053
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1056
+WARNING:root:Robot is static
+INFO:root:Iteration 1058
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1061
+WARNING:root:Robot is static
+INFO:root:Iteration 1063
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1066
+WARNING:root:Robot is static
+INFO:root:Iteration 1068
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1071
+WARNING:root:Robot is static
+INFO:root:Iteration 1073
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1076
+WARNING:root:Robot is static
+INFO:root:Iteration 1078
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1081
+WARNING:root:Robot is static
+INFO:root:Iteration 1083
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1086
+WARNING:root:Robot is static
+INFO:root:Iteration 1088
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1091
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1094
+WARNING:root:Robot is static
+INFO:root:Iteration 1096
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1099
+WARNING:root:Robot is static
+INFO:root:Iteration 1101
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1104
+WARNING:root:Robot is static
+INFO:root:Iteration 1106
+WARNING:root:Robot is static
+INFO:root:Iteration 1108
+WARNING:root:Robot is static
+INFO:root:Iteration 1110
+WARNING:root:Robot is static
+INFO:root:Iteration 1112
+WARNING:root:Robot is static
+INFO:root:Iteration 1114
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1117
+WARNING:root:Robot is static
+INFO:root:Iteration 1119
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1122
+WARNING:root:Robot is static
+INFO:root:Iteration 1124
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1127
+WARNING:root:Robot is static
+INFO:root:Iteration 1129
+WARNING:root:Robot is static
+INFO:root:Iteration 1131
+WARNING:root:Robot is static
+INFO:root:Iteration 1133
+WARNING:root:Robot is static
+INFO:root:Iteration 1135
+WARNING:root:Robot is static
+INFO:root:Iteration 1137
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1140
+WARNING:root:Robot is static
+INFO:root:Iteration 1142
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1145
+WARNING:root:Robot is static
+INFO:root:Iteration 1147
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1150
+WARNING:root:Robot is static
+INFO:root:Iteration 1152
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1155
+WARNING:root:Robot is static
+INFO:root:Iteration 1157
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1160
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1163
+WARNING:root:Robot is static
+INFO:root:Iteration 1165
+WARNING:root:Robot is static
+INFO:root:Iteration 1167
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1170
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1173
+WARNING:root:Robot is static
+INFO:root:Iteration 1175
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1178
+WARNING:root:Robot is static
+INFO:root:Iteration 1180
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1183
+WARNING:root:Robot is static
+INFO:root:Iteration 1185
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1188
+WARNING:root:Robot is static
+INFO:root:Iteration 1190
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1193
+WARNING:root:Robot is static
+INFO:root:Iteration 1195
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1198
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1201
+WARNING:root:Robot is static
+INFO:root:Iteration 1203
+WARNING:root:Robot is static
+INFO:root:Iteration 1205
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1208
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1211
+WARNING:root:Robot is static
+INFO:root:Iteration 1213
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1216
+WARNING:root:Robot is static
+INFO:root:Iteration 1218
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1221
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1224
+WARNING:root:Robot is static
+INFO:root:Iteration 1226
+WARNING:root:Robot is static
+INFO:root:Iteration 1228
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1231
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1234
+WARNING:root:Robot is static
+INFO:root:Iteration 1236
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1239
+WARNING:root:Robot is static
+INFO:root:Iteration 1241
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1244
+WARNING:root:Robot is static
+INFO:root:Iteration 1246
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1249
+WARNING:root:Robot is static
+INFO:root:Iteration 1251
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1254
+WARNING:root:Robot is static
+INFO:root:Iteration 1256
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1259
+WARNING:root:Robot is static
+INFO:root:Iteration 1261
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1264
+WARNING:root:Robot is static
+INFO:root:Iteration 1266
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1269
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1272
+WARNING:root:Robot is static
+INFO:root:Iteration 1274
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1277
+WARNING:root:Robot is static
+INFO:root:Iteration 1279
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1282
+WARNING:root:Robot is static
+INFO:root:Iteration 1284
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1287
+WARNING:root:Robot is static
+INFO:root:Iteration 1289
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1292
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1295
+WARNING:root:Robot is static
+INFO:root:Iteration 1297
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1300
+WARNING:root:Robot is static
+INFO:root:Iteration 1302
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1305
+WARNING:root:Robot is static
+INFO:root:Iteration 1307
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1310
+WARNING:root:Robot is static
+INFO:root:Iteration 1312
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1315
+WARNING:root:Robot is static
+INFO:root:Iteration 1317
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1320
+WARNING:root:Robot is static
+INFO:root:Iteration 1322
+WARNING:root:Robot is static
+INFO:root:Iteration 1324
+WARNING:root:Robot is static
+INFO:root:Iteration 1325
+WARNING:root:Robot is static
+INFO:root:Iteration 1327
+WARNING:root:Robot is static
+INFO:root:Iteration 1329
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1332
+WARNING:root:Robot is static
+INFO:root:Iteration 1333
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1336
+WARNING:root:Robot is static
+INFO:root:Iteration 1338
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1341
+WARNING:root:Robot is static
+INFO:root:Iteration 1342
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1345
+WARNING:root:Robot is static
+INFO:root:Iteration 1346
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1349
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1352
+WARNING:root:Robot is static
+INFO:root:Iteration 1354
+WARNING:root:Robot is static
+INFO:root:Iteration 1356
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1359
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1362
+WARNING:root:Robot is static
+INFO:root:Iteration 1364
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1367
+WARNING:root:Robot is static
+INFO:root:Iteration 1369
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1372
+WARNING:root:Robot is static
+INFO:root:Iteration 1374
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1377
+WARNING:root:Robot is static
+INFO:root:Iteration 1379
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1382
+WARNING:root:Robot is static
+INFO:root:Iteration 1384
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1387
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1390
+WARNING:root:Robot is static
+INFO:root:Iteration 1392
+WARNING:root:Robot is static
+INFO:root:Iteration 1394
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1397
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1400
+WARNING:root:Robot is static
+INFO:root:Iteration 1402
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1405
+WARNING:root:Robot is static
+INFO:root:Iteration 1407
+WARNING:root:Robot is static
+INFO:root:Iteration 1409
+WARNING:root:Robot is static
+INFO:root:Iteration 1411
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1414
+WARNING:root:Robot is static
+INFO:root:Iteration 1416
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1419
+WARNING:root:Robot is static
+INFO:root:Iteration 1421
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1424
+WARNING:root:Robot is static
+INFO:root:Iteration 1425
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1428
+WARNING:root:Robot is static
+INFO:root:Iteration 1430
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1433
+WARNING:root:Robot is static
+INFO:root:Iteration 1435
+WARNING:root:Robot is static
+INFO:root:Iteration 1437
+WARNING:root:Robot is static
+INFO:root:Iteration 1439
+WARNING:root:Robot is static
+INFO:root:Iteration 1440
+WARNING:root:Robot is static
+INFO:root:Iteration 1442
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1445
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1448
+WARNING:root:Robot is static
+INFO:root:Iteration 1450
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1453
+WARNING:root:Robot is static
+INFO:root:Iteration 1455
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1458
+WARNING:root:Robot is static
+INFO:root:Iteration 1460
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1463
+WARNING:root:Robot is static
+INFO:root:Iteration 1465
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1468
+WARNING:root:Robot is static
+INFO:root:Iteration 1470
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1473
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1476
+WARNING:root:Robot is static
+INFO:root:Iteration 1478
+WARNING:root:Robot is static
+INFO:root:Iteration 1480
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1483
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1486
+WARNING:root:Robot is static
+INFO:root:Iteration 1487
+WARNING:root:Robot is static
+INFO:root:Iteration 1489
+WARNING:root:Robot is static
+INFO:root:Iteration 1491
+WARNING:root:Robot is static
+INFO:root:Iteration 1492
+WARNING:root:Robot is static
+INFO:root:Iteration 1494
+WARNING:root:Robot is static
+INFO:root:Iteration 1496
+WARNING:root:Robot is static
+INFO:root:Iteration 1498
+WARNING:root:Robot is static
+INFO:root:Iteration 1499
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1502
+WARNING:root:Robot is static
+INFO:root:Iteration 1504
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1507
+WARNING:root:Robot is static
+INFO:root:Iteration 1509
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1512
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1515
+WARNING:root:Robot is static
+INFO:root:Iteration 1517
+WARNING:root:Robot is static
+INFO:root:Iteration 1519
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1522
+WARNING:root:Robot is static
+INFO:root:Iteration 1524
+WARNING:root:Robot is static
+INFO:root:Iteration 1526
+WARNING:root:Robot is static
+INFO:root:Iteration 1527
+WARNING:root:Robot is static
+INFO:root:Iteration 1529
+WARNING:root:Robot is static
+INFO:root:Iteration 1531
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1534
+WARNING:root:Robot is static
+INFO:root:Iteration 1536
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1539
+WARNING:root:Robot is static
+INFO:root:Iteration 1541
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1544
+WARNING:root:Robot is static
+INFO:root:Iteration 1546
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1549
+WARNING:root:Robot is static
+INFO:root:Iteration 1551
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1554
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1557
+WARNING:root:Robot is static
+INFO:root:Iteration 1559
+WARNING:root:Robot is static
+INFO:root:Iteration 1561
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1564
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1567
+WARNING:root:Robot is static
+INFO:root:Iteration 1569
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1572
+WARNING:root:Robot is static
+INFO:root:Iteration 1573
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1576
+WARNING:root:Robot is static
+INFO:root:Iteration 1578
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1581
+WARNING:root:Robot is static
+INFO:root:Iteration 1583
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1586
+WARNING:root:Robot is static
+INFO:root:Iteration 1588
+WARNING:root:Robot is static
+INFO:root:Iteration 1590
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1593
+WARNING:root:Robot is static
+INFO:root:Iteration 1595
+WARNING:root:Robot is static
+INFO:root:Iteration 1597
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1600
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1603
+WARNING:root:Robot is static
+INFO:root:Iteration 1605
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1608
+WARNING:root:Robot is static
+INFO:root:Iteration 1610
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1613
+WARNING:root:Robot is static
+INFO:root:Iteration 1615
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1618
+WARNING:root:Robot is static
+INFO:root:Iteration 1620
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1623
+WARNING:root:Robot is static
+INFO:root:Iteration 1625
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1628
+WARNING:root:Robot is static
+INFO:root:Iteration 1630
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1633
+WARNING:root:Robot is static
+INFO:root:Iteration 1635
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1638
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1641
+WARNING:root:Robot is static
+INFO:root:Iteration 1643
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1646
+WARNING:root:Robot is static
+INFO:root:Iteration 1648
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1651
+WARNING:root:Robot is static
+INFO:root:Iteration 1653
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1656
+WARNING:root:Robot is static
+INFO:root:Iteration 1658
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1661
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1664
+WARNING:root:Robot is static
+INFO:root:Iteration 1666
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1669
+WARNING:root:Robot is static
+INFO:root:Iteration 1671
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1674
+WARNING:root:Robot is static
+INFO:root:Iteration 1676
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1679
+WARNING:root:Robot is static
+INFO:root:Iteration 1681
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1684
+WARNING:root:Robot is static
+INFO:root:Iteration 1686
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1689
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1692
+WARNING:root:Robot is static
+INFO:root:Iteration 1694
+WARNING:root:Robot is static
+INFO:root:Iteration 1695
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1698
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1701
+WARNING:root:Robot is static
+INFO:root:Iteration 1702
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1705
+WARNING:root:Robot is static
+INFO:root:Iteration 1707
+WARNING:root:Robot is static
+INFO:root:Iteration 1709
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1712
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1715
+WARNING:root:Robot is static
+INFO:root:Iteration 1717
+WARNING:root:Robot is static
+INFO:root:Iteration 1719
+WARNING:root:Robot is static
+INFO:root:Iteration 1721
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1724
+WARNING:root:Robot is static
+INFO:root:Iteration 1726
+WARNING:root:Robot is static
+INFO:root:Iteration 1728
+WARNING:root:Robot is static
+INFO:root:Iteration 1730
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1733
+WARNING:root:Robot is static
+INFO:root:Iteration 1735
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1738
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1741
+WARNING:root:Robot is static
+INFO:root:Iteration 1743
+WARNING:root:Robot is static
+INFO:root:Iteration 1745
+WARNING:root:Robot is static
+INFO:root:Iteration 1747
+WARNING:root:Robot is static
+INFO:root:Iteration 1749
+WARNING:root:Robot is static
+INFO:root:Iteration 1751
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1754
+WARNING:root:Robot is static
+INFO:root:Iteration 1756
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1759
+WARNING:root:Robot is static
+INFO:root:Iteration 1761
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1764
+WARNING:root:Robot is static
+INFO:root:Iteration 1766
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1769
+WARNING:root:Robot is static
+INFO:root:Iteration 1771
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1774
+WARNING:root:Robot is static
+INFO:root:Iteration 1776
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1779
+WARNING:root:Robot is static
+INFO:root:Iteration 1781
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1784
+WARNING:root:Robot is static
+INFO:root:Iteration 1786
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1789
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1792
+WARNING:root:Robot is static
+INFO:root:Iteration 1794
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1797
+WARNING:root:Robot is static
+INFO:root:Iteration 1799
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1802
+WARNING:root:Robot is static
+INFO:root:Iteration 1804
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1807
+WARNING:root:Robot is static
+INFO:root:Iteration 1809
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1812
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1815
+WARNING:root:Robot is static
+INFO:root:Iteration 1817
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1820
+WARNING:root:Robot is static
+INFO:root:Iteration 1822
+WARNING:root:Robot is static
+INFO:root:Iteration 1823
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1826
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1829
+WARNING:root:Robot is static
+INFO:root:Iteration 1831
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1834
+WARNING:root:Robot is static
+INFO:root:Iteration 1836
+WARNING:root:Robot is static
+INFO:root:Iteration 1837
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1840
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1843
+WARNING:root:Robot is static
+INFO:root:Iteration 1845
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1848
+WARNING:root:Robot is static
+INFO:root:Iteration 1850
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1853
+WARNING:root:Robot is static
+INFO:root:Iteration 1855
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1858
+WARNING:root:Robot is static
+INFO:root:Iteration 1860
+WARNING:root:Robot is static
+INFO:root:Iteration 1862
+WARNING:root:Robot is static
+INFO:root:Iteration 1864
+WARNING:root:Robot is static
+INFO:root:Iteration 1865
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1868
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1871
+WARNING:root:Robot is static
+INFO:root:Iteration 1873
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1876
+WARNING:root:Robot is static
+INFO:root:Iteration 1878
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1881
+WARNING:root:Robot is static
+INFO:root:Iteration 1883
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1886
+WARNING:root:Robot is static
+INFO:root:Iteration 1888
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1891
+WARNING:root:Robot is static
+INFO:root:Iteration 1893
+WARNING:root:Robot is static
+INFO:root:Iteration 1895
+WARNING:root:Robot is static
+INFO:root:Iteration 1897
+WARNING:root:Robot is static
+INFO:root:Iteration 1899
+WARNING:root:Robot is static
+INFO:root:Iteration 1901
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1904
+WARNING:root:Robot is static
+INFO:root:Iteration 1906
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1909
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1912
+WARNING:root:Robot is static
+INFO:root:Iteration 1914
+WARNING:root:Robot is static
+INFO:root:Iteration 1916
+WARNING:root:Robot is static
+INFO:root:Iteration 1918
+WARNING:root:Robot is static
+INFO:root:Iteration 1919
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1922
+WARNING:root:Robot is static
+INFO:root:Iteration 1924
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1927
+WARNING:root:Robot is static
+INFO:root:Iteration 1929
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1932
+WARNING:root:Robot is static
+INFO:root:Iteration 1934
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1937
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1940
+WARNING:root:Robot is static
+INFO:root:Iteration 1942
+WARNING:root:Robot is static
+INFO:root:Iteration 1944
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1947
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1950
+WARNING:root:Robot is static
+INFO:root:Iteration 1952
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1955
+WARNING:root:Robot is static
+INFO:root:Iteration 1957
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1960
+WARNING:root:Robot is static
+INFO:root:Iteration 1962
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1965
+WARNING:root:Robot is static
+INFO:root:Iteration 1967
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1970
+WARNING:root:Robot is static
+INFO:root:Iteration 1972
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1975
+WARNING:root:Robot is static
+INFO:root:Iteration 1977
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1980
+WARNING:root:Robot is static
+INFO:root:Iteration 1982
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1985
+WARNING:root:Robot is static
+INFO:root:Iteration 1987
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1990
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 1993
+WARNING:root:Robot is static
+INFO:root:Iteration 1995
+WARNING:root:Robot is static
+INFO:root:Iteration 1997
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2000
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2003
+WARNING:root:Robot is static
+INFO:root:Iteration 2005
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2008
+WARNING:root:Robot is static
+INFO:root:Iteration 2010
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2013
+WARNING:root:Robot is static
+INFO:root:Iteration 2015
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2018
+WARNING:root:Robot is static
+INFO:root:Iteration 2019
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2022
+WARNING:root:Robot is static
+INFO:root:Iteration 2024
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2027
+WARNING:root:Robot is static
+INFO:root:Iteration 2029
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2032
+WARNING:root:Robot is static
+INFO:root:Iteration 2034
+WARNING:root:Robot is static
+INFO:root:Iteration 2036
+WARNING:root:Robot is static
+INFO:root:Iteration 2038
+WARNING:root:Robot is static
+INFO:root:Iteration 2040
+WARNING:root:Robot is static
+INFO:root:Iteration 2042
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2045
+WARNING:root:Robot is static
+INFO:root:Iteration 2047
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2050
+WARNING:root:Robot is static
+INFO:root:Iteration 2051
+WARNING:root:Robot is static
+INFO:root:Iteration 2053
+WARNING:root:Robot is static
+INFO:root:Iteration 2055
+WARNING:root:Robot is static
+INFO:root:Iteration 2057
+WARNING:root:Robot is static
+INFO:root:Iteration 2059
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2062
+WARNING:root:Robot is static
+INFO:root:Iteration 2064
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2067
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2070
+WARNING:root:Robot is static
+INFO:root:Iteration 2072
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2075
+WARNING:root:Robot is static
+INFO:root:Iteration 2076
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2079
+WARNING:root:Robot is static
+INFO:root:Iteration 2080
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2083
+WARNING:root:Robot is static
+INFO:root:Iteration 2085
+WARNING:root:Robot is static
+INFO:root:Iteration 2087
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2090
+WARNING:root:Robot is static
+INFO:root:Iteration 2092
+WARNING:root:Robot is static
+INFO:root:Iteration 2094
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2097
+WARNING:root:Robot is static
+INFO:root:Iteration 2099
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2102
+WARNING:root:Robot is static
+INFO:root:Iteration 2104
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2107
+WARNING:root:Robot is static
+INFO:root:Iteration 2109
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2112
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2115
+WARNING:root:Robot is static
+INFO:root:Iteration 2117
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2120
+WARNING:root:Robot is static
+INFO:root:Iteration 2122
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2125
+WARNING:root:Robot is static
+INFO:root:Iteration 2127
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2130
+WARNING:root:Robot is static
+INFO:root:Iteration 2132
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2135
+WARNING:root:Robot is static
+INFO:root:Iteration 2137
+WARNING:root:Robot is static
+INFO:root:Iteration 2139
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2142
+WARNING:root:Robot is static
+INFO:root:Iteration 2143
+WARNING:root:Robot is static
+INFO:root:Iteration 2145
+WARNING:root:Robot is static
+INFO:root:Iteration 2147
+WARNING:root:Robot is static
+INFO:root:Iteration 2148
+WARNING:root:Robot is static
+INFO:root:Iteration 2150
+WARNING:root:Robot is static
+INFO:root:Iteration 2152
+WARNING:root:Robot is static
+INFO:root:Iteration 2154
+WARNING:root:Robot is static
+INFO:root:Iteration 2155
+WARNING:root:Robot is static
+INFO:root:Iteration 2157
+WARNING:root:Robot is static
+INFO:root:Iteration 2159
+WARNING:root:Robot is static
+INFO:root:Iteration 2161
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2164
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2167
+WARNING:root:Robot is static
+INFO:root:Iteration 2169
+WARNING:root:Robot is static
+INFO:root:Iteration 2171
+WARNING:root:Robot is static
+INFO:root:Iteration 2173
+WARNING:root:Robot is static
+INFO:root:Iteration 2175
+WARNING:root:Robot is static
+INFO:root:Iteration 2177
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2180
+WARNING:root:Robot is static
+INFO:root:Iteration 2182
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2185
+WARNING:root:Robot is static
+INFO:root:Iteration 2187
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2190
+WARNING:root:Robot is static
+INFO:root:Iteration 2192
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2195
+WARNING:root:Robot is static
+INFO:root:Iteration 2196
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2199
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2202
+WARNING:root:Robot is static
+INFO:root:Iteration 2204
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2207
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2210
+WARNING:root:Robot is static
+INFO:root:Iteration 2212
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2215
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2218
+WARNING:root:Robot is static
+INFO:root:Iteration 2220
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2223
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2226
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2229
+WARNING:root:Robot is static
+INFO:root:Iteration 2231
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2234
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2237
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2240
+WARNING:root:Robot is static
+INFO:root:Iteration 2242
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2245
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2248
+WARNING:root:Robot is static
+INFO:root:Iteration 2250
+WARNING:root:Robot is static
+INFO:root:Iteration 2252
+WARNING:root:Robot is static
+INFO:root:Iteration 2254
+WARNING:root:Robot is static
+INFO:root:Iteration 2256
+WARNING:root:Robot is static
+INFO:root:Iteration 2257
+WARNING:root:Robot is static
+INFO:root:Iteration 2259
+WARNING:root:Robot is static
+INFO:root:Iteration 2261
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2264
+WARNING:root:Robot is static
+INFO:root:Iteration 2266
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2269
+WARNING:root:Robot is static
+INFO:root:Iteration 2271
+WARNING:root:Robot is static
+INFO:root:Iteration 2273
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2276
+WARNING:root:Robot is static
+INFO:root:Iteration 2278
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2281
+WARNING:root:Robot is static
+INFO:root:Iteration 2283
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2286
+WARNING:root:Robot is static
+INFO:root:Iteration 2288
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2291
+WARNING:root:Robot is static
+INFO:root:Iteration 2293
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2296
+WARNING:root:Robot is static
+INFO:root:Iteration 2298
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2301
+WARNING:root:Robot is static
+INFO:root:Iteration 2303
+WARNING:root:Robot is static
+INFO:root:Iteration 2305
+WARNING:root:Robot is static
+INFO:root:Iteration 2307
+WARNING:root:Robot is static
+INFO:root:Iteration 2309
+WARNING:root:Robot is static
+INFO:root:Iteration 2311
+WARNING:root:Robot is static
+INFO:root:Iteration 2312
+WARNING:root:Robot is static
+INFO:root:Iteration 2314
+WARNING:root:Robot is static
+INFO:root:Iteration 2316
+WARNING:root:Robot is static
+INFO:root:Iteration 2317
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2320
+WARNING:root:Robot is static
+INFO:root:Iteration 2322
+WARNING:root:Robot is static
+INFO:root:Iteration 2324
+WARNING:root:Robot is static
+INFO:root:Iteration 2326
+WARNING:root:Robot is static
+INFO:root:Iteration 2327
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2330
+WARNING:root:Robot is static
+INFO:root:Iteration 2332
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2335
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2338
+WARNING:root:Robot is static
+INFO:root:Iteration 2340
+WARNING:root:Robot is static
+INFO:root:Iteration 2342
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2345
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2348
+WARNING:root:Robot is static
+INFO:root:Iteration 2350
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2353
+WARNING:root:Robot is static
+INFO:root:Iteration 2355
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2358
+WARNING:root:Robot is static
+INFO:root:Iteration 2360
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2363
+WARNING:root:Robot is static
+INFO:root:Iteration 2365
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2368
+WARNING:root:Robot is static
+INFO:root:Iteration 2370
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2373
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2376
+WARNING:root:Robot is static
+INFO:root:Iteration 2378
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2381
+WARNING:root:Robot is static
+INFO:root:Iteration 2383
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2386
+WARNING:root:Robot is static
+INFO:root:Iteration 2388
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2391
+WARNING:root:Robot is static
+INFO:root:Iteration 2393
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2396
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2399
+WARNING:root:Robot is static
+INFO:root:Iteration 2401
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2404
+WARNING:root:Robot is static
+INFO:root:Iteration 2406
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2409
+WARNING:root:Robot is static
+INFO:root:Iteration 2411
+WARNING:root:Robot is static
+INFO:root:Iteration 2413
+WARNING:root:Robot is static
+INFO:root:Iteration 2415
+WARNING:root:Robot is static
+INFO:root:Iteration 2416
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2419
+WARNING:root:Robot is static
+INFO:root:Iteration 2420
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2423
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2426
+WARNING:root:Robot is static
+INFO:root:Iteration 2428
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2431
+WARNING:root:Robot is static
+INFO:root:Iteration 2433
+WARNING:root:Robot is static
+INFO:root:Iteration 2435
+WARNING:root:Robot is static
+INFO:root:Iteration 2437
+WARNING:root:Robot is static
+INFO:root:Iteration 2439
+WARNING:root:Robot is static
+INFO:root:Iteration 2441
+WARNING:root:Robot is static
+INFO:root:Iteration 2443
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2446
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2449
+WARNING:root:Robot is static
+INFO:root:Iteration 2451
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2454
+WARNING:root:Robot is static
+INFO:root:Iteration 2456
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2459
+WARNING:root:Robot is static
+INFO:root:Iteration 2461
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2464
+WARNING:root:Robot is static
+INFO:root:Iteration 2466
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2469
+WARNING:root:Robot is static
+INFO:root:Iteration 2471
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2474
+WARNING:root:Robot is static
+INFO:root:Iteration 2476
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2479
+WARNING:root:Robot is static
+INFO:root:Iteration 2481
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2484
+WARNING:root:Robot is static
+INFO:root:Iteration 2486
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2489
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2492
+WARNING:root:Robot is static
+INFO:root:Iteration 2494
+WARNING:root:Robot is static
+INFO:root:Iteration 2496
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2499
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2502
+WARNING:root:Robot is static
+INFO:root:Iteration 2504
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2507
+WARNING:root:Robot is static
+INFO:root:Iteration 2509
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2512
+WARNING:root:Robot is static
+INFO:root:Iteration 2514
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2517
+WARNING:root:Robot is static
+INFO:root:Iteration 2519
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2522
+WARNING:root:Robot is static
+INFO:root:Iteration 2524
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2527
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2530
+WARNING:root:Robot is static
+INFO:root:Iteration 2532
+WARNING:root:Robot is static
+INFO:root:Iteration 2534
+WARNING:root:Robot is static
+INFO:root:Iteration 2536
+WARNING:root:Robot is static
+INFO:root:Iteration 2538
+WARNING:root:Robot is static
+INFO:root:Iteration 2539
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2542
+WARNING:root:Robot is static
+INFO:root:Iteration 2544
+WARNING:root:Robot is static
+INFO:root:Iteration 2546
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2549
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2552
+WARNING:root:Robot is static
+INFO:root:Iteration 2554
+WARNING:root:Robot is static
+INFO:root:Iteration 2556
+WARNING:root:Robot is static
+INFO:root:Iteration 2558
+WARNING:root:Robot is static
+INFO:root:Iteration 2560
+WARNING:root:Robot is static
+INFO:root:Iteration 2562
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2565
+WARNING:root:Robot is static
+INFO:root:Iteration 2567
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2570
+WARNING:root:Robot is static
+INFO:root:Iteration 2572
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2575
+WARNING:root:Robot is static
+INFO:root:Iteration 2577
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2580
+WARNING:root:Robot is static
+INFO:root:Iteration 2582
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2585
+WARNING:root:Robot is static
+INFO:root:Iteration 2587
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2590
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2593
+WARNING:root:Robot is static
+INFO:root:Iteration 2595
+WARNING:root:Robot is static
+INFO:root:Iteration 2597
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2600
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2603
+WARNING:root:Robot is static
+INFO:root:Iteration 2605
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2608
+WARNING:root:Robot is static
+INFO:root:Iteration 2610
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2613
+WARNING:root:Robot is static
+INFO:root:Iteration 2615
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2618
+WARNING:root:Robot is static
+INFO:root:Iteration 2620
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2623
+WARNING:root:Robot is static
+INFO:root:Iteration 2625
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2628
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2631
+WARNING:root:Robot is static
+INFO:root:Iteration 2633
+WARNING:root:Robot is static
+INFO:root:Iteration 2635
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2638
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2641
+WARNING:root:Robot is static
+INFO:root:Iteration 2643
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2646
+WARNING:root:Robot is static
+INFO:root:Iteration 2648
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2651
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2654
+WARNING:root:Robot is static
+INFO:root:Iteration 2656
+WARNING:root:Robot is static
+INFO:root:Iteration 2658
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2661
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2664
+WARNING:root:Robot is static
+INFO:root:Iteration 2666
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2669
+WARNING:root:Robot is static
+INFO:root:Iteration 2671
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2674
+WARNING:root:Robot is static
+INFO:root:Iteration 2676
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2679
+WARNING:root:Robot is static
+INFO:root:Iteration 2681
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2684
+INFO:root:Motion model applied
+WARNING:root:All weights are zero - setting it to a small value to avoid errors
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2687
+WARNING:root:Robot is static
+INFO:root:Iteration 2689
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2692
+WARNING:root:Robot is static
+INFO:root:Iteration 2694
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2697
+WARNING:root:Robot is static
+INFO:root:Iteration 2699
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2702
+WARNING:root:Robot is static
+INFO:root:Iteration 2704
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2707
+WARNING:root:Robot is static
+INFO:root:Iteration 2709
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2712
+WARNING:root:Robot is static
+INFO:root:Iteration 2714
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2717
+WARNING:root:Robot is static
+INFO:root:Iteration 2719
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2722
+WARNING:root:Robot is static
+INFO:root:Iteration 2724
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2727
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2730
+WARNING:root:Robot is static
+INFO:root:Iteration 2732
+WARNING:root:Robot is static
+INFO:root:Iteration 2734
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2737
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2740
+WARNING:root:Robot is static
+INFO:root:Iteration 2742
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2745
+WARNING:root:Robot is static
+INFO:root:Iteration 2747
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2750
+WARNING:root:Robot is static
+INFO:root:Iteration 2752
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2755
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2758
+WARNING:root:Robot is static
+INFO:root:Iteration 2760
+WARNING:root:Robot is static
+INFO:root:Iteration 2762
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2765
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2768
+WARNING:root:Robot is static
+INFO:root:Iteration 2770
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2773
+WARNING:root:Robot is static
+INFO:root:Iteration 2775
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2778
+WARNING:root:Robot is static
+INFO:root:Iteration 2780
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2783
+WARNING:root:Robot is static
+INFO:root:Iteration 2785
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2788
+WARNING:root:Robot is static
+INFO:root:Iteration 2790
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2793
+WARNING:root:Robot is static
+INFO:root:Iteration 2795
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2798
+WARNING:root:Robot is static
+INFO:root:Iteration 2800
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2803
+WARNING:root:Robot is static
+INFO:root:Iteration 2805
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2808
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2811
+WARNING:root:Robot is static
+INFO:root:Iteration 2813
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2816
+WARNING:root:Robot is static
+INFO:root:Iteration 2818
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2821
+WARNING:root:Robot is static
+INFO:root:Iteration 2823
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2826
+WARNING:root:Robot is static
+INFO:root:Iteration 2828
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2831
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2834
+WARNING:root:Robot is static
+INFO:root:Iteration 2836
+WARNING:root:Robot is static
+INFO:root:Iteration 2838
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2841
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2844
+WARNING:root:Robot is static
+INFO:root:Iteration 2846
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2849
+WARNING:root:Robot is static
+INFO:root:Iteration 2851
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2854
+WARNING:root:Robot is static
+INFO:root:Iteration 2856
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2859
+WARNING:root:Robot is static
+INFO:root:Iteration 2861
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2864
+WARNING:root:Robot is static
+INFO:root:Iteration 2866
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2869
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2872
+WARNING:root:Robot is static
+INFO:root:Iteration 2874
+WARNING:root:Robot is static
+INFO:root:Iteration 2876
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2879
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2882
+WARNING:root:Robot is static
+INFO:root:Iteration 2884
+WARNING:root:Robot is static
+INFO:root:Iteration 2886
+WARNING:root:Robot is static
+INFO:root:Iteration 2887
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2890
+WARNING:root:Robot is static
+INFO:root:Iteration 2892
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2895
+WARNING:root:Robot is static
+INFO:root:Iteration 2897
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2900
+WARNING:root:Robot is static
+INFO:root:Iteration 2902
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2905
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2908
+WARNING:root:Robot is static
+INFO:root:Iteration 2910
+WARNING:root:Robot is static
+INFO:root:Iteration 2912
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2915
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2918
+WARNING:root:Robot is static
+INFO:root:Iteration 2920
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2923
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2926
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2929
+WARNING:root:Robot is static
+INFO:root:Iteration 2931
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2934
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2937
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2940
+WARNING:root:Robot is static
+INFO:root:Iteration 2942
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2945
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2948
+WARNING:root:Robot is static
+INFO:root:Iteration 2950
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2953
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2956
+WARNING:root:Robot is static
+INFO:root:Iteration 2958
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:save fig
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2961
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2964
+WARNING:root:Robot is static
+INFO:root:Iteration 2966
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2969
+INFO:root:Motion model applied
+INFO:root:Sensor model applied
+INFO:root:About to normalize weights
+INFO:root:Re-sampling particles
+INFO:root:Iteration 2972
+WARNING:root:Robot is static
+INFO:root:Iteration 2974
+WARNING:root:Robot is static
+INFO:root:Completed!
+INFO:root:Final pos: 600 589 0
